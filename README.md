@@ -41,4 +41,4 @@ Sugestões ou melhorias são bem-vindas:
 ### 🎉 Gostou do projeto?
 
 Conecte-se comigo:  
-[Instagram](https://instagram.com/seu_instagram) | [LinkedIn](https://linkedin.com/in/seu_linkedin)
+[Instagram](https://www.instagram.com/fabra.oliveira/) | [LinkedIn](https://www.linkedin.com/in/fabricio-de-oliveira-bimbi-516719223/)
