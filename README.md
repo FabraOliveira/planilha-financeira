@@ -32,9 +32,6 @@ Confira um exemplo do design da planilha:
 ## 🤝 Contribuindo
 
 Sugestões ou melhorias são bem-vindas:
-1. Faça um fork.
-2. Crie uma branch: `git checkout -b minha-feature`.
-3. Envie um pull request.
 
 ---
 
