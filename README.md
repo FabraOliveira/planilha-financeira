@@ -26,7 +26,7 @@ Bem-vindo à **Planilha Financeira**, uma ferramenta prática, visual e poderosa
 
 ## 📸 Captura de Tela
 
-Veja um exemplo do visual da planilha com o tema escuro:
+Veja um exemplo do visual da planilha:
 
 ![Captura de Tela - Tema Escuro](https://github.com/user-attachments/assets/509f7d83-4fa1-480d-896a-be8b81bb02fe) 
 
