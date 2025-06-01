@@ -48,6 +48,17 @@ Sugestões, melhorias ou ideias? Fique à vontade para abrir uma *issue* ou entr
 
 ---
 
+## 🧠 Códigos VBA Utilizados
+
+Você pode visualizar os códigos utilizados para automações antes mesmo de baixar a planilha:
+
+📁 [Ver códigos VBA](./VBA)
+
+- [`DistribuirParcelas.bas`](./VBA/DistribuirParcelas.bas): Lógica de distribuição de parcelas futuras por mês.
+- [`VerificarNomesDuplicados.bas`](./VBA/VerificarNomesDuplicados.bas): Evita nomes repetidos, no campo Categorias de Despesas da aba editar.
+
+---
+
 ## 🎉 Gostou do projeto?
 
 Vamos nos conectar!  
