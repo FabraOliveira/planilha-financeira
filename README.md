@@ -35,8 +35,6 @@ Veja um exemplo do visual da planilha com o tema escuro:
 
 1. **Baixe o arquivo** clicando no botão verde `Code`, depois em **Download ZIP**:
 
-   ![Botão Code]![README code](https://github.com/user-attachments/assets/d38466a4-4da3-49e0-857d-ead6499d1174)
-
 2. **Extraia o conteúdo** do arquivo `.zip` para uma pasta em seu computador.
 
    > Clique com o botão direito no arquivo ZIP e selecione **"Extrair tudo..."** ou use seu descompactador preferido.
