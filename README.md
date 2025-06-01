@@ -1,41 +1,63 @@
-# Planilha Financeira - Controle Total de Gastos
+# 📊 Planilha Financeira - Controle Total de Gastos
 
-Bem-vindo à **Planilha Financeira**, uma ferramenta poderosa para organizar suas finanças de forma prática e eficiente.
-
-## 📌 Funcionalidades
-
-- **Distribuição automática de parcelas**
-- **Ranking de despesas por categoria**
-- **Controle de saldo disponível**
-- **Gestão de cartões e contas mensais**
-- **Personalização completa**:
-  - Aba para editar categorias e alternar entre temas claro e escuro.
-- **Gráficos e acompanhamento visual**
-
-## 🎨 Design e Usabilidade
-
-- Interface intuitiva, com design limpo e personalizável.
-- Alternância entre temas claro e escuro.
-
-### 📸 Captura de Tela
-
-Confira um exemplo do design da planilha:
-
-![TemaEscuro](https://github.com/user-attachments/assets/03a17613-36dd-4e60-97cf-8938b3206b0e)
-
-## 🛠️ Como Usar
-
-1. **Baixe o arquivo**: Clique em `Code > Download ZIP` ou clone este repositório.
-2. Clique com o botão direito na planilha, vá em `Propriedades > Geral > Desbloquear`.
-3. Configure categorias, favoritos e tema na aba de configuração.
-
-## 🤝 Contribuindo
-
-Sugestões ou melhorias são bem-vindas:
+Bem-vindo à **Planilha Financeira**, uma ferramenta prática, visual e poderosa para organizar suas finanças com eficiência.
 
 ---
 
-### 🎉 Gostou do projeto?
+## 🚀 Funcionalidades
 
-Conecte-se comigo:  
-[Instagram](https://www.instagram.com/fabra.oliveira/) | [LinkedIn](https://www.linkedin.com/in/fabricio-de-oliveira-bimbi-516719223/)
+- ✅ **Distribuição automática de parcelas mensais**
+- 📊 **Ranking de despesas por categoria**
+- 💰 **Controle de saldo disponível**
+- 💳 **Gestão de cartões, contas e compras parceladas**
+- 🎨 **Personalização completa**:
+  - Aba dedicada para edição de categorias
+  - Alternância entre **tema claro** e **escuro**
+- 📈 **Gráficos dinâmicos e acompanhamento visual**
+
+---
+
+## 🖌️ Design e Usabilidade
+
+- Interface limpa e intuitiva
+- Alternância entre **modo claro e escuro** com apenas um clique
+
+---
+
+## 📸 Captura de Tela
+
+Veja um exemplo do visual da planilha com o tema escuro:
+
+![Captura de Tela - Tema Escuro](https://github.com/user-attachments/assets/509f7d83-4fa1-480d-896a-be8b81bb02fe) 
+
+
+## 🛠️ Como Usar
+
+1. **Baixe o arquivo** clicando no botão verde `Code`, depois em **Download ZIP**:
+
+   ![Botão Code]![README code](https://github.com/user-attachments/assets/d38466a4-4da3-49e0-857d-ead6499d1174)
+
+2. **Extraia o conteúdo** do arquivo `.zip` para uma pasta em seu computador.
+
+   > Clique com o botão direito no arquivo ZIP e selecione **"Extrair tudo..."** ou use seu descompactador preferido.
+
+3. Após a extração, clique com o botão direito no arquivo da planilha, vá em `Propriedades > Geral > Desbloquear` (caso apareça essa opção).
+
+4. **Abra a planilha** e vá até a aba de **Configurações** para:
+   * Editar categorias
+   * Escolher o tema (claro ou escuro)
+   * Definir favoritos e personalizar a planilha como preferir
+
+---
+
+## 🤝 Contribua com o projeto
+
+Sugestões, melhorias ou ideias? Fique à vontade para abrir uma *issue* ou entrar em contato!
+
+---
+
+## 🎉 Gostou do projeto?
+
+Vamos nos conectar!  
+💼 [LinkedIn](https://www.linkedin.com/in/fabricio-de-oliveira-bimbi-516719223/)
+
