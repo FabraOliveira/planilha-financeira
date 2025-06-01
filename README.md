@@ -24,12 +24,6 @@ Bem-vindo à **Planilha Financeira**, uma ferramenta prática, visual e poderosa
 
 ---
 
-## 📸 Captura de Tela
-
-Veja um exemplo do visual da planilha:
-
-![Captura de Tela - Tema Escuro](https://github.com/user-attachments/assets/509f7d83-4fa1-480d-896a-be8b81bb02fe) 
-
 
 ## 🛠️ Como Usar
 
@@ -59,3 +53,17 @@ Sugestões, melhorias ou ideias? Fique à vontade para abrir uma *issue* ou entr
 Vamos nos conectar!  
 💼 [LinkedIn](https://www.linkedin.com/in/fabricio-de-oliveira-bimbi-516719223/)
 
+---
+
+## 📸 Captura de Tela
+
+Veja como a planilha se adapta aos dois modos de visualização:
+
+### 🌙 Tema Escuro
+
+![Tema Escuro](https://github.com/user-attachments/assets/8bdff3d8-c4f3-4e80-a784-06743b8351e4)
+) 
+
+### ☀️ Tema Claro
+
+![Tema Claro](https://github.com/user-attachments/assets/509f7d83-4fa1-480d-896a-be8b81bb02fe) 
