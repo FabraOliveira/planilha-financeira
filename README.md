@@ -42,12 +42,6 @@ Bem-vindo à **Planilha Financeira**, uma ferramenta prática, visual e poderosa
 
 ---
 
-## 🤝 Contribua com o projeto
-
-Sugestões, melhorias ou ideias? Fique à vontade para abrir uma *issue* ou entrar em contato!
-
----
-
 ## 🧠 Códigos VBA Utilizados
 
 Você pode visualizar os códigos utilizados para automações antes mesmo de baixar a planilha:
@@ -56,6 +50,12 @@ Você pode visualizar os códigos utilizados para automações antes mesmo de ba
 
 - [`DistribuirParcelas.bas`](./VBA/DistribuirParcelas.bas): Lógica de distribuição de parcelas futuras por mês.
 - [`VerificarNomesDuplicados.bas`](./VBA/VerificarNomesDuplicados.bas): Evita nomes repetidos, no campo Categorias de Despesas da aba editar.
+
+---
+
+## 🤝 Contribua com o projeto
+
+Sugestões, melhorias ou ideias? Fique à vontade para entrar em contato!
 
 ---
 
