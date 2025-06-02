@@ -72,7 +72,8 @@ Veja como a planilha se adapta aos dois modos de visualização:
 
 ### 🌙 Tema Escuro
 
-![Tema Escuro](https://github.com/user-attachments/assets/8bdff3d8-c4f3-4e80-a784-06743b8351e4)
+![Tema Escuro](https://github.com/user-attachments/assets/ac4c9c4a-1e39-4408-a2a2-f984aaf2c5b8)
+)
 
 ### ☀️ Tema Claro
 
