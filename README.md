@@ -64,8 +64,6 @@ Preferência por algo 100% online? Use a versão no Google Sheets:
 
 ## 🧠 Códigos Fonte dos Scripts
 
-A pasta [`/Script`](https://github.com/FabraOliveira/planilha-financeira/tree/main/Script) contém todos os scripts utilizados no projeto, incluindo VBA (Excel) e Google Apps Script.
-
 ### 📁 Scripts VBA (Excel)
 
 - [`DistribuirParcelas.bas`](https://github.com/FabraOliveira/planilha-financeira/blob/main/Script/DistribuirParcelas.bas): Responsável por distribuir automaticamente parcelas futuras nas abas mensais.
@@ -73,15 +71,14 @@ A pasta [`/Script`](https://github.com/FabraOliveira/planilha-financeira/tree/ma
 
 ### ☁️ Script Google Apps Script
 
-- [`script-google.gs`](https://github.com/FabraOliveira/planilha-financeira/blob/main/Script/script-google.gs): Script utilizado na versão Google Planilhas para automação das parcelas e organização dos dados.
-
-> 💡 Você pode visualizar, copiar ou adaptar os scripts diretamente no repositório.
+- [`DistribuirParcelas.bas`](https://github.com/FabraOliveira/planilha-financeira/blob/main/Script/DistribuirParcelas.bas): Responsável por distribuir automaticamente parcelas futuras nas abas mensais.
+- [`IrParaAbas.bas`](https://github.com/FabraOliveira/planilha-financeira/blob/main/Script/IrParaAbas.bas): Permite navegação rápida entre as abas de meses.
 
 ---
 
 ## 🤝 Contribua com o projeto
 
-Sugestões, melhorias ou ideias? Fique à vontade para abrir uma *issue*, enviar um *pull request* ou entrar em contato!
+Sugestões, melhorias ou ideias? Fique à vontade para entrar em contato!
 
 ---
 
