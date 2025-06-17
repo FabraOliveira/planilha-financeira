@@ -66,8 +66,8 @@ Preferência por algo 100% online? Use a versão no Google Sheets:
 
 ### 📁 Scripts VBA (Excel)
 
-- [`DistribuirParcelas.bas`](https://github.com/FabraOliveira/planilha-financeira/blob/main/Script/DistribuirParcelas.bas): Responsável por distribuir automaticamente parcelas futuras nas abas mensais.
-- [`IrParaAbas.bas`](https://github.com/FabraOliveira/planilha-financeira/blob/main/Script/IrParaAbas.bas): Permite navegação rápida entre as abas de meses.
+- [`DistribuirParcelas.bas`](https://github.com/FabraOliveira/planilha-financeira/blob/main/VBA/DistribuirParcelas.bas): Responsável por distribuir automaticamente parcelas futuras nas abas mensais.
+- [`VerificarNomesDuplicados.bas`](https://github.com/FabraOliveira/planilha-financeira/blob/main/VBA/VerificarNomesDuplicados.bas): Verifica e evita nomes duplicados no campo de categorias, na aba **Editar**.
 
 ### ☁️ Script Google Apps Script
 
